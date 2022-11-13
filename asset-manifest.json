@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/FemMedX-Submission-Remarkables/static/css/main.a80d4447.chunk.css",
+    "main.js": "/FemMedX-Submission-Remarkables/static/js/main.7b012922.chunk.js",
+    "main.js.map": "/FemMedX-Submission-Remarkables/static/js/main.7b012922.chunk.js.map",
+    "runtime-main.js": "/FemMedX-Submission-Remarkables/static/js/runtime-main.894dffcc.js",
+    "runtime-main.js.map": "/FemMedX-Submission-Remarkables/static/js/runtime-main.894dffcc.js.map",
+    "static/js/2.93d61116.chunk.js": "/FemMedX-Submission-Remarkables/static/js/2.93d61116.chunk.js",
+    "static/js/2.93d61116.chunk.js.map": "/FemMedX-Submission-Remarkables/static/js/2.93d61116.chunk.js.map",
+    "static/js/3.ff2cf1fa.chunk.js": "/FemMedX-Submission-Remarkables/static/js/3.ff2cf1fa.chunk.js",
+    "static/js/3.ff2cf1fa.chunk.js.map": "/FemMedX-Submission-Remarkables/static/js/3.ff2cf1fa.chunk.js.map",
+    "index.html": "/FemMedX-Submission-Remarkables/index.html",
+    "service-worker.js": "/FemMedX-Submission-Remarkables/service-worker.js",
+    "service-worker.js.map": "/FemMedX-Submission-Remarkables/service-worker.js.map",
+    "static/css/main.a80d4447.chunk.css.map": "/FemMedX-Submission-Remarkables/static/css/main.a80d4447.chunk.css.map",
+    "static/js/2.93d61116.chunk.js.LICENSE.txt": "/FemMedX-Submission-Remarkables/static/js/2.93d61116.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/FemMedX-Submission-Remarkables/static/media/c96be38e-ea64-418f-ae54-e757ed92b069.43d92d85.woff2",
+    "static/media/book-open.28d91271.png": "/FemMedX-Submission-Remarkables/static/media/book-open.28d91271.png",
+    "static/media/notebook.aeae363a.png": "/FemMedX-Submission-Remarkables/static/media/notebook.aeae363a.png",
+    "static/media/shopping-cart-simple.674f3275.png": "/FemMedX-Submission-Remarkables/static/media/shopping-cart-simple.674f3275.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.894dffcc.js",
+    "static/js/2.93d61116.chunk.js",
+    "static/css/main.a80d4447.chunk.css",
+    "static/js/main.7b012922.chunk.js"
+  ]
+}
